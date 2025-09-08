@@ -1,0 +1,13 @@
+{
+  "name": "vuln-npm-sample",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "lodash": "4.17.19",
+    "minimist": "1.2.5"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
