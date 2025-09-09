@@ -5,8 +5,5 @@
   "type": "module",
   "dependencies": {
     "lodash": "4.17.19",
-  },
-  "scripts": {
-    "start": "node index.js"
   }
 }
